@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LuxeVista Resort</string>
+    <string name="front_head">Redefining Your Hotel Reservations Experience and Holiday Fun!</string>
+    <string name="subfront_head">Find the ideal hotel for every journey-luxury and comfort at your fingertips.</string>
+    <string name="already_account">Already Have an account ?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Spinner_items">
+        <item>Single Room</item>
+        <item>Double Room</item>
+        <item>Triple Room</item>
+        <item>Family Room</item>
+    </string-array>
+</resources>
